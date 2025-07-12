@@ -1,2 +1,0 @@
-# microservices-config
-configuring Microservices
