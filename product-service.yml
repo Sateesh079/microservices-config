@@ -25,3 +25,9 @@ eureka:
 #logging:
 #  level:
 #    org.springframework.cloud.config: DEBUG
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh, health, info
+
