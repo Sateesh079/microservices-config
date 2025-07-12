@@ -2,7 +2,7 @@ spring:
   application:
     name: product-service
 custom:
-  message: "Welcome to product Service! from config server??????"
+  message: "Welcome to product Service! from config serverrrrrrrrrrrrrr"
 
 eureka:
   client:
