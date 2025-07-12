@@ -4,6 +4,8 @@ server:
 spring:
   application:
     name: product-service
+custom:
+  message: "Welcome to product Service!"
 
 eureka:
   client:
